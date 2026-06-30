@@ -1,4 +1,4 @@
-# Live Dashboard
+# Live Dashboard-fork
 
 这是一个可以实时展示“你正在用什么应用”的网页看板。示例:https://xuyihong.icu/   qq交流群1093496287
 
